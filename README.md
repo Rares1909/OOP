@@ -37,7 +37,7 @@ Datele de intrate folosite pentru acest test au fost
 
 A doua parte a testului consta in cateva operatii simple care sa arate functionalitatea tutror lucrurilor implementate:
 constructori
-supraincarcarea operatorilor:+,=.+=,-=
+supraincarcarea operatorilor:+,-,+=,-=
 set-eri
 destructori
 
