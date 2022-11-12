@@ -1,4 +1,4 @@
-											OOP_PROJECT
+									OOP_PROJECT
 
 I created two classes(Buget(budget) and Person(persoana)) using aggregation. Both classes have get and set functions
 for setting or returning the value of an attribute. I overloaded the following operators: +, -, +=, -, ==,  !=, <<, >>.
